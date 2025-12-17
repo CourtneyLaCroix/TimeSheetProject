@@ -14,7 +14,7 @@ input:
   -hours worked
 
 output:
+  - job Name
+  - hours worked
   - date
-  - jobName
-  - Hours worked
   
